@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="144" max="-2" attributes="0"/>
+          </Group>
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace min="-2" pref="86" max="-2" attributes="0"/>
+                      <Component id="jLaalquilervehiculo" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="190" max="-2" attributes="0"/>
+                      <Component id="jBuguardar" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="155" max="32767" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLanombre" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Component id="jTexnombre" min="-2" pref="121" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="jLacedula" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLatelefono" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="jLadircontacto" alignment="0" max="32767" attributes="0"/>
+                              <Component id="jLatarcredito" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="jTexdircontacto" alignment="1" min="-2" pref="121" max="-2" attributes="0"/>
+                              <Component id="jTexcedula" alignment="1" min="-2" pref="121" max="-2" attributes="0"/>
+                              <Component id="jTextelefono" alignment="1" min="-2" pref="121" max="-2" attributes="0"/>
+                              <Component id="jTextarcredito" alignment="1" min="-2" pref="121" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jLacategoria" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jLaapellido" alignment="0" min="-2" pref="52" max="-2" attributes="0"/>
+                      <Component id="jLaedad" alignment="0" min="-2" pref="52" max="-2" attributes="0"/>
+                      <Component id="jLapase" alignment="0" min="-2" pref="52" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jTexcategoria" alignment="0" min="-2" pref="121" max="-2" attributes="0"/>
+                      <Component id="jTexpase" alignment="0" min="-2" pref="121" max="-2" attributes="0"/>
+                      <Component id="jTexedad" alignment="0" min="-2" pref="121" max="-2" attributes="0"/>
+                      <Component id="jTexapellido" alignment="0" min="-2" pref="121" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="13" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLaalquilervehiculo" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="189" max="32767" attributes="0"/>
+              <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="50" max="-2" attributes="0"/>
+              <Component id="jBuguardar" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="44" max="-2" attributes="0"/>
+          </Group>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="46" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLanombre" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLaapellido" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jTexnombre" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="jTexapellido" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLacedula" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLaedad" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jTexcedula" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="jTexedad" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="21" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLatelefono" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jLapase" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jTextelefono" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="jTexpase" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLadircontacto" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLacategoria" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jTexdircontacto" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                      <Component id="jTexcategoria" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLatarcredito" alignment="3" min="-2" pref="16" max="-2" attributes="0"/>
+                      <Component id="jTextarcredito" alignment="3" min="-2" pref="21" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="110" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLaalquilervehiculo">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="24" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="ALQUILER VEHICULO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaedad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="EDAD"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexedad">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexedadActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLapase">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PASE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexcategoria">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexcategoriaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLatarcredito">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TAR. CREDITO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexpase">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexpaseActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLadircontacto">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="DIR CONTACTO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLacategoria">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CATEGORIA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexdircontacto">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexdircontactoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexcedula">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexcedulaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLacedula">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CEDULA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextelefono">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextelefonoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLanombre">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NOMBRE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextarcredito">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextarcreditoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaapellido">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="APELLIDO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexnombre">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexnombreActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLatelefono">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="TELEFONO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexapellido">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexapellidoActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="falta poner nombre de variables"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jBuguardar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GUARDAR"/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>

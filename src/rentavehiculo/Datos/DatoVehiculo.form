@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="8" max="-2" attributes="0"/>
+                      <Component id="jLamatricula" min="-2" pref="61" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jLaseguro" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                          <Component id="jLaconsumo" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                          <Component id="jLaprecio" alignment="0" min="-2" pref="73" max="-2" attributes="0"/>
+                          <Component id="jLamodelo" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jLaestado" min="-2" pref="61" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace pref="23" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Component id="jTexseguro" min="-2" pref="113" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jTexestado" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexmodelo" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexmatricula" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexprecio" alignment="0" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexconsumo" alignment="0" min="-2" pref="113" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="41" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLacapacidad" min="-2" pref="73" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="jTexcapacidad" min="-2" pref="113" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLanumplaca" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                          <Component id="jLamarca" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jTexmarca" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexnumplaca" min="-2" pref="113" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLakilometraje" min="-2" pref="73" max="-2" attributes="0"/>
+                          <Component id="jLaconcecionario" alignment="0" min="-2" max="-2" attributes="0"/>
+                          <Component id="jLaincidentes" alignment="0" min="-2" pref="61" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jTextField11" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexconcecionario" min="-2" pref="113" max="-2" attributes="0"/>
+                          <Component id="jTexkilometraje" min="-2" pref="113" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace min="32" pref="55" max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jLafotos" min="-2" pref="61" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="141" max="-2" attributes="0"/>
+              <Component id="jBuguardar" min="-2" pref="91" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace max="32767" attributes="0"/>
+              <Component id="jLadarosvehi" min="-2" pref="259" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="118" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jLadarosvehi" min="-2" pref="39" max="-2" attributes="0"/>
+              <EmptySpace min="-2" pref="1" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLamatricula" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexmatricula" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLamarca" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexmarca" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLanumplaca" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexmodelo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexnumplaca" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLamodelo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTexprecio" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLacapacidad" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLaprecio" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexcapacidad" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLakilometraje" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexkilometraje" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexconsumo" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLaconsumo" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jTexseguro" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLaconcecionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexconcecionario" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLaseguro" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLaincidentes" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTextField11" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jLaestado" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jTexestado" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jLafotos" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jBuguardar" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="38" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jLadarosvehi">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Tahoma" size="18" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="DATOS DE LOS VEHICULOS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLamatricula">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MATRICULA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLamarca">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MARCA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLamodelo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="MODELO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLanumplaca">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="NUM PLACA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaprecio">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="PRECIO X KM"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLacapacidad">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CAPACIDAD "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaconsumo">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CONSUMO "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLakilometraje">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="KILOMETRAJE"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaseguro">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="SEGURO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaconcecionario">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="CONCECIONA"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaestado">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="ESTADO"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLaincidentes">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="INCIDENTES"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLafotos">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="FOTOS"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexmatricula">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexmatriculaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexmarca">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTexmarcaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexmodelo">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexnumplaca">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexprecio">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexkilometraje">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexcapacidad">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexconsumo">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexseguro">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexconcecionario">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTextField11">
+    </Component>
+    <Component class="javax.swing.JTextField" name="jTexestado">
+    </Component>
+    <Component class="javax.swing.JButton" name="jBuguardar">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="GUARDAR"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jBuguardarActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>

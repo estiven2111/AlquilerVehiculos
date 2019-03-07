@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package vehiclerental;
+package rentavehiculo;
 
 /**
  *
- * @author DANIEL
+ * @author estiv
  */
-public class VehicleRental {
+public class RentaVehiculo {
 
     /**
      * @param args the command line arguments
